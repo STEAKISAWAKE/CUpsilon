@@ -1,0 +1,112 @@
+[
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Base",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Base  -g   -o CMakeFiles/UpsilonBase.dir/Vector.c.o   -c /home/steak/Documents/Upsilon/Source/Base/Vector.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Base/Vector.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/affine.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/affine.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/affine.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/bezier.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/bezier.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/bezier.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/box.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/box.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/box.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/cam.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/cam.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/cam.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/curve.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/curve.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/curve.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/ease.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/ease.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/ease.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/euler.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/euler.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/euler.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/frustum.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/frustum.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/frustum.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/io.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/io.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/io.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/mat2.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/mat2.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/mat2.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/mat3.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/mat3.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/mat3.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/mat4.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/mat4.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/mat4.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/plane.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/plane.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/plane.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/project.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/project.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/project.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/quat.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/quat.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/quat.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/ray.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/ray.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/ray.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/sphere.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/sphere.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/sphere.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/vec2.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/vec2.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/vec2.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/vec3.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/vec3.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/vec3.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
+  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/vec4.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/vec4.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/vec4.c"
+},
+{
+  "directory": "/home/steak/Documents/Upsilon/build/Source/Render",
+  "command": "/usr/bin/c99-gcc   -g   -o CMakeFiles/UpsilonRender.dir/Render.c.o   -c /home/steak/Documents/Upsilon/Source/Render/Render.c",
+  "file": "/home/steak/Documents/Upsilon/Source/Render/Render.c"
+}
+]

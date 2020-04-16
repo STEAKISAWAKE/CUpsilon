@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Include/Base/Vector.h
+
+/home/steak/Documents/Upsilon/Source/Base/Vector.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+Vector.h
+/home/steak/Documents/Upsilon/Source/Base/Vector.h
+

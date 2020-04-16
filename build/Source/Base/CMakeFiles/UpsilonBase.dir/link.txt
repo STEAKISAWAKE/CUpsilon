@@ -1,0 +1,2 @@
+/usr/bin/ar qc libUpsilonBase.a  CMakeFiles/UpsilonBase.dir/Vector.c.o
+/usr/bin/ranlib libUpsilonBase.a

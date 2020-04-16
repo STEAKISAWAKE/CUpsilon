@@ -1,0 +1,13 @@
+/home/steak/Documents/Upsilon/build/CMakeFiles/rebuild_cache.dir
+/home/steak/Documents/Upsilon/build/CMakeFiles/edit_cache.dir
+/home/steak/Documents/Upsilon/build/Source/CMakeFiles/rebuild_cache.dir
+/home/steak/Documents/Upsilon/build/Source/CMakeFiles/edit_cache.dir
+/home/steak/Documents/Upsilon/build/Source/Base/CMakeFiles/rebuild_cache.dir
+/home/steak/Documents/Upsilon/build/Source/Base/CMakeFiles/edit_cache.dir
+/home/steak/Documents/Upsilon/build/Source/Base/CMakeFiles/UpsilonBase.dir
+/home/steak/Documents/Upsilon/build/Source/Math/CMakeFiles/rebuild_cache.dir
+/home/steak/Documents/Upsilon/build/Source/Math/CMakeFiles/edit_cache.dir
+/home/steak/Documents/Upsilon/build/Source/Math/CMakeFiles/UpsilonMath.dir
+/home/steak/Documents/Upsilon/build/Source/Render/CMakeFiles/rebuild_cache.dir
+/home/steak/Documents/Upsilon/build/Source/Render/CMakeFiles/edit_cache.dir
+/home/steak/Documents/Upsilon/build/Source/Render/CMakeFiles/UpsilonRender.dir

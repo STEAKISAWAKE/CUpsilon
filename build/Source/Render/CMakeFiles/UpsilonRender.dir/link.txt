@@ -1,0 +1,2 @@
+/usr/bin/ar qc libUpsilonRender.a  CMakeFiles/UpsilonRender.dir/Render.c.o
+/usr/bin/ranlib libUpsilonRender.a
