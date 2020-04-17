@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/UpsilonRender.dir/Render.c.o"
-  "libUpsilonRender.pdb"
   "libUpsilonRender.a"
+  "libUpsilonRender.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

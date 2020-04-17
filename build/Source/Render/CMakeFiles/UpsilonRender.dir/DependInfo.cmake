@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/steak/Documents/Upsilon/Source/Render/Render.c" "/home/steak/Documents/Upsilon/build/Source/Render/CMakeFiles/UpsilonRender.dir/Render.c.o"
+  "/home/steak/Documents/GitHub/CUpsilon/Source/Render/Render.c" "/home/steak/Documents/GitHub/CUpsilon/build/Source/Render/CMakeFiles/UpsilonRender.dir/Render.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

@@ -1,112 +1,192 @@
 [
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Base",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Base  -g   -o CMakeFiles/UpsilonBase.dir/Vector.c.o   -c /home/steak/Documents/Upsilon/Source/Base/Vector.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Base/Vector.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/include -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src -I/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src  -g -fPIC   -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/context.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/context.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/context.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/affine.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/affine.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/affine.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/include -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src -I/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src  -g -fPIC   -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/init.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/init.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/init.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/bezier.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/bezier.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/bezier.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/include -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src -I/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src  -g -fPIC   -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/input.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/input.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/input.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/box.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/box.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/box.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/include -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src -I/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src  -g -fPIC   -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/monitor.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/monitor.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/monitor.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/cam.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/cam.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/cam.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/include -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src -I/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src  -g -fPIC   -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/vulkan.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/vulkan.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/vulkan.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/curve.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/curve.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/curve.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/include -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src -I/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src  -g -fPIC   -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/window.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/window.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/window.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/ease.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/ease.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/ease.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/include -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src -I/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/x11_init.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/x11_init.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/x11_init.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/euler.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/euler.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/euler.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/include -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src -I/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/x11_monitor.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/x11_monitor.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/x11_monitor.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/frustum.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/frustum.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/frustum.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/include -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src -I/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/x11_window.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/x11_window.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/x11_window.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/io.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/io.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/io.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/include -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src -I/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/xkb_unicode.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/xkb_unicode.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/xkb_unicode.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/mat2.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/mat2.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/mat2.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/include -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src -I/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/posix_time.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/posix_time.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/posix_time.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/mat3.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/mat3.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/mat3.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/include -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src -I/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/posix_thread.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/posix_thread.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/posix_thread.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/mat4.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/mat4.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/mat4.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/include -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src -I/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/glx_context.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/glx_context.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/glx_context.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/plane.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/plane.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/plane.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/include -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src -I/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src  -g -fPIC   -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/egl_context.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/egl_context.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/egl_context.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/project.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/project.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/project.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/include -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src -I/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src  -g -fPIC   -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/osmesa_context.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/osmesa_context.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/osmesa_context.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/quat.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/quat.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/quat.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/include -I/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src -I/home/steak/Documents/GitHub/CUpsilon/build/Libraries/glfw/glfw/src  -g -fPIC   -Wall -std=c99 -o CMakeFiles/glfw.dir/linux_joystick.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/linux_joystick.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Libraries/glfw/glfw/src/linux_joystick.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/ray.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/ray.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/ray.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Base",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Base  -g   -o CMakeFiles/UpsilonBase.dir/Vector.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Base/Vector.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Base/Vector.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/sphere.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/sphere.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/sphere.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/affine.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/affine.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/affine.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/vec2.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/vec2.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/vec2.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/bezier.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/bezier.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/bezier.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/vec3.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/vec3.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/vec3.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/box.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/box.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/box.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Math",
-  "command": "/usr/bin/c99-gcc  -I/home/steak/Documents/Upsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/vec4.c.o   -c /home/steak/Documents/Upsilon/Source/Math/cglm/vec4.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Math/cglm/vec4.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/cam.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/cam.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/cam.c"
 },
 {
-  "directory": "/home/steak/Documents/Upsilon/build/Source/Render",
-  "command": "/usr/bin/c99-gcc   -g   -o CMakeFiles/UpsilonRender.dir/Render.c.o   -c /home/steak/Documents/Upsilon/Source/Render/Render.c",
-  "file": "/home/steak/Documents/Upsilon/Source/Render/Render.c"
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/curve.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/curve.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/curve.c"
+},
+{
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/ease.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/ease.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/ease.c"
+},
+{
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/euler.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/euler.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/euler.c"
+},
+{
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/frustum.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/frustum.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/frustum.c"
+},
+{
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/io.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/io.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/io.c"
+},
+{
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/mat2.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/mat2.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/mat2.c"
+},
+{
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/mat3.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/mat3.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/mat3.c"
+},
+{
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/mat4.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/mat4.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/mat4.c"
+},
+{
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/plane.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/plane.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/plane.c"
+},
+{
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/project.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/project.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/project.c"
+},
+{
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/quat.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/quat.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/quat.c"
+},
+{
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/ray.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/ray.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/ray.c"
+},
+{
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/sphere.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/sphere.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/sphere.c"
+},
+{
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/vec2.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/vec2.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/vec2.c"
+},
+{
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/vec3.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/vec3.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/vec3.c"
+},
+{
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Math",
+  "command": "/usr/bin/gcc  -I/home/steak/Documents/GitHub/CUpsilon/Include/Math  -g   -o CMakeFiles/UpsilonMath.dir/cglm/vec4.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/vec4.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Math/cglm/vec4.c"
+},
+{
+  "directory": "/home/steak/Documents/GitHub/CUpsilon/build/Source/Render",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/UpsilonRender.dir/Render.c.o   -c /home/steak/Documents/GitHub/CUpsilon/Source/Render/Render.c",
+  "file": "/home/steak/Documents/GitHub/CUpsilon/Source/Render/Render.c"
 }
 ]

@@ -8,7 +8,7 @@
 
 ../Include/Base/Vector.h
 
-/home/steak/Documents/Upsilon/Source/Base/Vector.c
+/home/steak/Documents/GitHub/CUpsilon/Source/Base/Vector.c
 stdio.h
 -
 stdlib.h
@@ -16,5 +16,5 @@ stdlib.h
 string.h
 -
 Vector.h
-/home/steak/Documents/Upsilon/Source/Base/Vector.h
+/home/steak/Documents/GitHub/CUpsilon/Source/Base/Vector.h
 

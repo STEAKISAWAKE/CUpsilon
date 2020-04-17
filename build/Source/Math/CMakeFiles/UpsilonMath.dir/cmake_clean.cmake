@@ -19,8 +19,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/UpsilonMath.dir/cglm/vec2.c.o"
   "CMakeFiles/UpsilonMath.dir/cglm/vec3.c.o"
   "CMakeFiles/UpsilonMath.dir/cglm/vec4.c.o"
-  "libUpsilonMath.pdb"
   "libUpsilonMath.a"
+  "libUpsilonMath.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

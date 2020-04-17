@@ -1,0 +1,237 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						5
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Libraries",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Libraries"
+				},
+				{
+					"build" : "Libraries/glfw",
+					"childIndexes" : 
+					[
+						3
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Libraries/glfw"
+				},
+				{
+					"build" : "Libraries/glfw/glfw",
+					"childIndexes" : 
+					[
+						4
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 1,
+					"source" : "Libraries/glfw/glfw",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "Libraries/glfw/glfw/src",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "Libraries/glfw/glfw/src",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Source",
+					"childIndexes" : 
+					[
+						6,
+						7,
+						8
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Source"
+				},
+				{
+					"build" : "Source/Base",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 0,
+					"source" : "Source/Base",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Source/Math",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 0,
+					"source" : "Source/Math",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Source/Render",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 0,
+					"source" : "Source/Render",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						5,
+						6,
+						7,
+						8
+					],
+					"name" : "Upsilon",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3,
+						4
+					],
+					"name" : "GLFW",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 6,
+					"id" : "UpsilonBase::@f53ed85d1bda73b9459e",
+					"jsonFile" : "target-UpsilonBase-Debug-4ffc45f3fe2f37005860.json",
+					"name" : "UpsilonBase",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "UpsilonMath::@0b564518187b12e26eb1",
+					"jsonFile" : "target-UpsilonMath-Debug-76ce3c60e1caaf304424.json",
+					"name" : "UpsilonMath",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "UpsilonRender::@b2f56fa40167f2987132",
+					"jsonFile" : "target-UpsilonRender-Debug-4980648ff47b82d7844e.json",
+					"name" : "UpsilonRender",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "glfw::@01ecf58d0e1f4bd782a5",
+					"jsonFile" : "target-glfw-Debug-07d506f3df2985ebdbd5.json",
+					"name" : "glfw",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "uninstall::@a6610d0c2c62155e3b18",
+					"jsonFile" : "target-uninstall-Debug-ad11ccb4e6a9554fe041.json",
+					"name" : "uninstall",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/steak/Documents/GitHub/CUpsilon/build",
+		"source" : "/home/steak/Documents/GitHub/CUpsilon"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
